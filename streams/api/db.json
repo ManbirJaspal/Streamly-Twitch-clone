@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "great stream",
+      "id": 1
+    },
+    {
+      "title": "Sunny Stream",
+      "description": "this is sunnys stream",
+      "id": 2
+    },
+    {
+      "title": "Other Stream",
+      "description": "Heres'some stream",
+      "id": 3
+    },
+    {
+      "title": "Editited the stream",
+      "description": "this was made nu sabari",
+      "id": 4
+    },
+    {
+      "title": "edited HEllo",
+      "description": "lalala lalal lalalaal",
+      "userId": "104652926501400297080",
+      "id": 5
+    },
+    {
+      "title": "Me Streaming component reuse",
+      "description": "refactoring components",
+      "userId": "104652926501400297080",
+      "id": 6
+    }
+  ]
+}
